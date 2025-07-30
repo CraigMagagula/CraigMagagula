@@ -8,7 +8,7 @@ By combining modern front-end frameworks with cutting-edge tools like Gemini, Ch
 
 ## 💫 About Me
 
-I'm a creative **Front-End Developer** with a passion for integrating **AI technologies** into modern web applications. I specialize in crafting responsive, intuitive user interfaces that seamlessly connect with intelligent backends—making AI accessible and user-friendly.
+I'm a creative **Front-End Developer** with a passion for integrating **AI technologies** into modern web applications. I specialize in crafting responsive, intuitive user interfaces that seamlessly connect with intelligent backend—making AI accessible and user-friendly.
 
 - 🎨 Skilled in building engaging, high-performance UIs using **React**, **Next.js**, and **FlutterFlow**
 - 🤖 Experienced in embedding AI tools like **ChatGPT**, **Gemini**, and **Stability AI** into front-end applications
@@ -31,7 +31,7 @@ I'm a creative **Front-End Developer** with a passion for integrating **AI techn
 `HTML5` `CSS3` `JavaScript` `React` `Next.js` `FlutterFlow`   
 
 **Backend & APIs:**  
-`Node.js` `Python` `Firebase` `Express.js` `Flask` `REST APIs` `Gemini API` `OpenAI`  
+`Node.js` `Python` `Gemini API` `OpenAI`  
 
 **Databases & Cloud:**  
 `MySQL` `Firebase Firestore` `Google Cloud` `Azure`  
