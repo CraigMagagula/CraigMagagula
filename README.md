@@ -1,16 +1,20 @@
-# 👋 Craig Magagula: AI-Powered Full Stack Developer
+# 👋 Craig Magagula: Front-End Developer
 
-Hello! I'm a driven Full Stack Developer and AI Specialist passionate about building intelligent, scalable applications. I blend modern web technologies with cutting-edge machine learning and generative AI to deliver real-world impact—especially in education, automation, and content creation.
+Hello! I'm a passionate Front-End Developer with a strong interest in Artificial Intelligence. I specialize in building sleek, responsive user interfaces that connect seamlessly with powerful AI technologies. My work focuses on creating smart, scalable, and intuitive applications—especially in education, content generation, and automation.
+
+By combining modern front-end frameworks with cutting-edge tools like Gemini, ChatGPT, and Stability AI, I aim to make AI both accessible and impactful for users across all skill levels.
 
 ---
 
 ## 💫 About Me
 
-I thrive at the intersection of **software engineering** and **artificial intelligence**. Whether it’s designing smart learning platforms, integrating GPT/Gemini APIs, or auditing AI systems for fairness, my mission is to create ethical, efficient, and user-focused digital solutions.
+I'm a creative **Front-End Developer** with a passion for integrating **AI technologies** into modern web applications. I specialize in crafting responsive, intuitive user interfaces that seamlessly connect with intelligent backends—making AI accessible and user-friendly.
 
-- 🧠 Currently leading projects in **AI fairness, education tech, and no-code automation**
-- 🔍 Strong believer in transparent, bias-aware AI systems
-- ⚙️ Experienced with Google AI Studio, FlutterFlow, Stability AI, OpenAI, and more
+- 🎨 Skilled in building engaging, high-performance UIs using **React**, **Next.js**, and **FlutterFlow**
+- 🤖 Experienced in embedding AI tools like **ChatGPT**, **Gemini**, and **Stability AI** into front-end applications
+- 🧠 Currently working on **smart learning tools**, **no-code AI platforms**, and **bias-aware education apps**
+- 🔍 Focused on ethical, human-centered AI experiences that enhance usability and trust
+
 
 ---
 
@@ -24,13 +28,13 @@ I thrive at the intersection of **software engineering** and **artificial intell
 ## 💻 Tech Stack
 
 **Frontend:**  
-`HTML5` `CSS3` `JavaScript` `React` `Next.js` `FlutterFlow`  
+`HTML5` `CSS3` `JavaScript` `React` `Next.js` `FlutterFlow`   
 
 **Backend & APIs:**  
 `Node.js` `Python` `Firebase` `Express.js` `Flask` `REST APIs` `Gemini API` `OpenAI`  
 
 **Databases & Cloud:**  
-`MongoDB` `MySQL` `PostgreSQL` `Firebase Firestore` `Google Cloud` `Azure`  
+`MySQL` `Firebase Firestore` `Google Cloud` `Azure`  
 
 **AI & ML Tools:**  
 `Gemini` `OpenAI` `Stability AI` `LangChain` `AIF360` `Pandas` `Scikit-learn`  
@@ -46,7 +50,7 @@ I thrive at the intersection of **software engineering** and **artificial intell
 
 ## 📬 Get in Touch
 
-Feel free to reach out via email at **craig.magagula@email.com** *(replace with your actual email)* or connect with me on LinkedIn.  
+Feel free to reach out via email at **craigthabo@gmail.com** *(replace with your actual email)* or connect with me on LinkedIn.  
 Let’s collaborate and build innovative solutions that make a difference.
 
 ---
