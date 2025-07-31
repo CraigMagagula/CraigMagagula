@@ -1,6 +1,6 @@
 # 👋 Craig Magagula: Front-End Developer
 
-Hello! I'm a passionate Front-End Developer with a strong interest in Artificial Intelligence. I specialize in building sleek, responsive user interfaces that connect seamlessly with powerful AI technologies. My work focuses on creating smart, scalable, and intuitive applications—especially in education, content generation, and automation.
+Hello! I'm a passionate Front-End Developer with a strong interest in IT Support and Artificial Intelligence. I specialize in building sleek, responsive user interfaces that connect seamlessly with powerful AI technologies. My work focuses on creating smart, scalable, and intuitive applications—especially in education, content generation, and automation.
 
 By combining modern front-end frameworks with cutting-edge tools like Gemini, ChatGPT, and Stability AI, I aim to make AI both accessible and impactful for users across all skill levels.
 
