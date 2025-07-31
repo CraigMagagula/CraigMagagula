@@ -1,4 +1,4 @@
-# 👋 Craig Magagula: Front-End Developer
+# 👋 Craig Magagula: Front-End Developer/IT Support
 
 Hello! I'm a passionate Front-End Developer with a strong interest in IT Support and Artificial Intelligence. I specialize in building sleek, responsive user interfaces that connect seamlessly with powerful AI technologies. My work focuses on creating smart, scalable, and intuitive applications—especially in education, content generation, and automation.
 
